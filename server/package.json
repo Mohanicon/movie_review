@@ -1,5 +1,5 @@
 {
-  "name": "movie-rating-web",
+  "name": "movie_review",
   "version": "1.0.0",
   "description": "Movie Rating and Review Web App",
   "main": "server.js",
@@ -10,18 +10,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mohanicon/Movie_review.git"
+    "url": "git+https://github.com/Mohanicon/movie_review.git"
   },
   "keywords": [
     "Web",
     "App"
   ],
-  "author": "mohanicon",
+  "author": "Mohan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mohanicon/Movie_review/issues"
+    "url": "https://github.com/Mohanicon/movie_review/issues"
   },
-  "homepage": "https://github.com/mohanicon/Movie_review#readme",
+  "homepage": "https://github.com/Mohanicon/movie_review#readme",
   "dependencies": {
     "-": "^0.0.1",
     "axios": "^0.27.2",
